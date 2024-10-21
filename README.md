@@ -1,3 +1,5 @@
+# Plantilla
+![Plantilla](public/observerTemplate.webp)
 # Diagrama de clases
 ![Diagrama de clases](public/ObserverPattern.png)
 # Diagrama de secuencia
